@@ -1,0 +1,64 @@
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  background: linear-gradient(135deg, #4e085f, #153677);
+  color: #fff;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+  letter-spacing: 1px;
+}
+
+.row {
+  margin: 12px 0;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 220px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+}
+
+button {
+  padding: 10px 16px;
+  margin-left: 8px;
+  background: #ff7b00;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #ff5500;
+}
+
+h2 {
+  margin: 20px 0 10px;
+  font-size: 1.6rem;
+}
+
+#types span {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 4px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.2);
+  font-weight: bold;
+}
+
+#hp, #attack, #defense, 
+#special-attack, #special-defense, #speed,
+#creature-id, #weight, #height {
+  margin: 6px 0;
+  font-size: 1rem;
+}
