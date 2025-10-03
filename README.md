@@ -11,7 +11,8 @@ A collection of web projects built using **HTML, CSS, and JavaScript**. These pr
 5. **Roman Numeral Converter** – Converts numbers into Roman numerals.  
 6. **Telephone Number Validator** – Validates phone numbers using regular expressions.  
 7. **Cash Register** – Simulates a cash register that calculates change.  
-8. **RPG Search App** – A simple role-playing game character search/creation app.  
+8. **RPG Creature Search App** – Search RPG creatures and view details.
+.  
 
 ## 🛠️ Tech Stack  
 - **HTML5**  
