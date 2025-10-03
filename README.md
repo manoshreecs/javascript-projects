@@ -10,7 +10,7 @@ A collection of web projects built using **HTML, CSS, and JavaScript**. These pr
 4. **Palindrome Checker** – Checks if a given word/phrase is a palindrome.  
 5. **Roman Numeral Converter** – Converts numbers into Roman numerals.  
 6. **Telephone Number Validator** – Validates phone numbers using regular expressions.  
-7. **Cash Register** – Simulates a cash register that calculates change.  
+7. **Cash Register** – Calculates customer change and shows register status (OPEN, CLOSED, or INSUFFICIENT_FUNDS).  
 8. **RPG Creature Search App** – Search RPG creatures and view details.
 .  
 
