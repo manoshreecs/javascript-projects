@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f4f6f9;
+  padding: 40px;
+}
+h1 {
+  color: #153677;
+  margin-bottom: 20px;
+}
+label {
+  font-size: 16px;
+  margin-right: 10px;
+}
+input {
+  padding: 8px;
+  border: 1px solid #555;
+  border-radius: 6px;
+  width: 150px;
+}
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  background: #153677;
+  color: #fff;
+  cursor: pointer;
+  font-size: 15px;
+}
+button:hover {
+  background: #4e085f;
+}
+#change-due {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #333;
+}
