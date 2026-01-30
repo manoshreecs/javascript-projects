@@ -21,5 +21,5 @@ A collection of web projects built using **HTML, CSS, and JavaScript**. These pr
 
 ## 📂 How to Run  
 1. Clone this repository:  
-   ```bash
-  https://github.com/manoshreecs/javascript-projects
+   ```bash https://github.com/manoshreecs/javascript-projects
+
