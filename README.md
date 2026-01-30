@@ -11,8 +11,7 @@ A collection of web projects built using **HTML, CSS, and JavaScript**. These pr
 5. **Roman Numeral Converter** – Converts numbers into Roman numerals.  
 6. **Telephone Number Validator** – Validates phone numbers using regular expressions.  
 7. **Cash Register** – Calculates customer change and shows register status (OPEN, CLOSED, or INSUFFICIENT_FUNDS).  
-8. **RPG Creature Search App** – Search RPG creatures and view details.
-.  
+8. **RPG Creature Search App** – Search RPG creatures and view details.  
 
 ## 🛠️ Tech Stack  
 - **HTML5**  
@@ -20,6 +19,7 @@ A collection of web projects built using **HTML, CSS, and JavaScript**. These pr
 - **JavaScript (Vanilla JS)**  
 
 ## 📂 How to Run  
-1. Clone this repository:  
-   ```bash https://github.com/manoshreecs/javascript-projects
 
+1. Clone this repository:  
+```bash
+git clone https://github.com/manoshreecs/javascript-projects.git
